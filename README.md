@@ -14,3 +14,5 @@ Run `npm start` to start the application.
 Author- [@AlisaDuncan](https://twitter.com/AlisaDuncan). Please reach out for any questions.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![image](https://github.com/user-attachments/assets/fbb1a229-3218-4e48-8ee9-4f8335fcca21)
